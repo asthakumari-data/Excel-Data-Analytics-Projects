@@ -4,6 +4,8 @@ An interactive **Coffee Sales Dashboard** built in **Microsoft Excel** to analyz
 
 The project demonstrates an end-to-end data analysis workflow including **data cleaning, transformation, PivotTables, interactive slicers, KPI analysis, visualization, and business insights**.
 
+![Dashboard Preview](Dashboard_Screenshot.png)
+
 ---
 
 ## 📊 Project Overview
@@ -142,7 +144,7 @@ The dashboard also analyzes transactions by product size.
 
 This helps understand:
 
-* Which sizes are purchased more frequently?
+* Which sizes are purchased most frequently
 * Customer preferences
 * Distribution of transactions across product sizes
 
@@ -256,9 +258,6 @@ Coffee-sales-dashboard/
 * Interactive slicers
 * Charts and visualizations
 * Key Insights section
-
----
-
 
 ---
 
